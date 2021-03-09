@@ -1,0 +1,6 @@
+framework module MycocoapodsLibrary {
+  umbrella header "MycocoapodsLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

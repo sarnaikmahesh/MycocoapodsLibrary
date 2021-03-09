@@ -1,0 +1,16 @@
+PODS:
+  - MycocoapodsLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MycocoapodsLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MycocoapodsLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MycocoapodsLibrary: 9d54e4dc96821ecd17d135dff520e8a44f8a8bfa
+
+PODFILE CHECKSUM: 25daaedaf6a8e91508fb6c378cdd7a47b16ba092
+
+COCOAPODS: 1.10.1
